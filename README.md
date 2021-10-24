@@ -6,8 +6,6 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tranlybuu&row=1&column=6&margin-w=15" alt="tranlybuu" /> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tranlybuu&show_icons=true" alt="tranlybuu" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranlybuu&layout=compact" alt="tranlybuu" /></p>
 
 <h3 align="center">Languages and Tools:</h3>
