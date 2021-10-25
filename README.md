@@ -24,5 +24,5 @@
 
 <h3 align="center"><p>Connect with me:</p>
   <a href="https://www.kaggle.com/tranlybuu" target="_blank"> <img src="https://user-images.githubusercontent.com/70121634/138717993-bc970369-e75e-4c44-a8cf-f26c21b63b88.png" alt="git" width="40" height="40"/> </a>
-  <a href="http://mailto:lybuu9117@gmail.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" alt="git" width="40" height="40"/> </a>
+  <a href="https://linktr.ee/tlbuu" target="_blank"> <img src="https://res.cloudinary.com/apideck/image/upload/v1565587681/catalog/linktr-ee/icon128x128.png" alt="git" width="40" height="40"/</a>
 </h3>
