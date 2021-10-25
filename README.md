@@ -1,6 +1,5 @@
 <p align="center"><img src="https://github.com/tranlybuu/tranlybuu/blob/main/image/info2.png" alt="css3"/></p>
 <h1 align="center">✨Trần Lý Bửu✨BooOrBur✨</h1>
-<h3 align="center">🌱Data Scientist🔭</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tranlybuu&color=blue" alt="tranlybuu" /> </p>
 
