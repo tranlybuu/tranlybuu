@@ -7,7 +7,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranlybuu&layout=compact" alt="tranlybuu" /></p>
 
-<h3 align="center">
+<h3 align="center"><p>Languages and Tools:</p>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
@@ -27,3 +27,5 @@
   <a href="https://linktr.ee/tlbuu" target="_blank"> <img src="https://res.cloudinary.com/apideck/image/upload/v1565587681/catalog/linktr-ee/icon128x128.png" alt="git" width="40" height="40"/</a>
   <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-l%C3%BD-b%E1%BB%ADu-4470b0209/" target="_blank"> <img src="https://banner2.cleanpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" alt="linkedln" width="40" height="40"/> </a>
 </h3>
+
+<p align="center"><img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="thanks" /></p>
