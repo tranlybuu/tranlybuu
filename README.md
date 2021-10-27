@@ -25,4 +25,5 @@
 <h3 align="center"><p>Connect with me:</p>
   <a href="https://www.kaggle.com/tranlybuu" target="_blank"> <img src="https://user-images.githubusercontent.com/70121634/138717993-bc970369-e75e-4c44-a8cf-f26c21b63b88.png" alt="git" width="40" height="40"/> </a>
   <a href="https://linktr.ee/tlbuu" target="_blank"> <img src="https://res.cloudinary.com/apideck/image/upload/v1565587681/catalog/linktr-ee/icon128x128.png" alt="git" width="40" height="40"/</a>
+  <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-l%C3%BD-b%E1%BB%ADu-4470b0209/" target="_blank"> <img src="https://banner2.cleanpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" alt="linkedln" width="40" height="40"/> </a>
 </h3>
