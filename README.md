@@ -1,6 +1,6 @@
-# Tran Ly Buu - FE Developer
+# Tran Ly Buu - Back-End Developer
 
-I am a student majoring in Data Science and Artificial Intelligence at Hue University and gained practical experience at a local software company as a FE Developer (VueJS). I am able to quickly absorb and learn new information, highly adaptable to my surroundings, and I am learning more skills in web programming in the future!
+I am a student majoring in Data Science and Artificial Intelligence at Hue University and gained practical experience at a local software company as a Web Developer (VueJS - Gin Gonic). I am able to quickly absorb and learn new information, highly adaptable to my surroundings, and I am learning more skills in web programming in the future!
 
 
 ## Experience
@@ -18,17 +18,15 @@ Intern in designing website operating systems - Designing
 a job search website system for students (2 months)
 
 - 2023 HTX Nông Nghiệp Số:
-Intern in designing website with Figma and developing
-website with Vue2 & NuxtJS (02/2023 - Now)
-
+Intern in developing website with VueJS, programming API with Golang - Gin (02/2023 - Now)
 
 ## Skills
 
-**Programing:** HTML, CSS, Javascript, Python, R, PHP
+**Programing:** Javascript, Python, Golang
 
 **Front-end:** Vue, Nuxt, VueX, Bootstrap, TailwindCSS
 
-**Back-end:** Node, Express, PHP
+**Back-end:** Node, Express, Golang, Gin Gonic
 
 **Database:** NoSQL (MongoDB), SQL (MySQL)
 
