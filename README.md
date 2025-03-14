@@ -1,34 +1,37 @@
-# Tran Ly Buu - Back-End Developer
+# Tran Ly Buu - Developer
 
-I am a student majoring in Data Science and Artificial Intelligence at Hue University and gained practical experience at a local software company as a Web Developer (VueJS - Gin Gonic). I am able to quickly absorb and learn new information, highly adaptable to my surroundings, and I am learning more skills in web programming in the future!
+I have graduated with a degree in Data Science and Artificial Intelligence from Hue University. I have practical experience as a Web Developer at local software companies.
+With a foundation in AI, I am continuously expanding my skills in software programming for future development.
 
 
 ## Experience
 
-- 2020 Hue Business Hackathon:
-First prize with web products about tourism support
-services - I developed the website on Wordpress platform
+- <b>[2020] Hue Business Hackathon:</b>
+First prize with web products about tourism support services - Contributed to develop the idea and complete the interface of the website with the Wordpress platform
 
-- 2021 Science and Technology Innovation Contest:
-Designing smart lighting system in Hue - Developing IOT
-systems on the basis of Firebase and Thingspeak
+- <b>[2021] Science and Technology Innovation Contest:</b>
+Third prize with smart lighting management system with sensors and machine learning model (YOLO) - Conceptualized and designed the system - Collected data, developed the model and made a simulation application
 
-- 2022 3S Hue Intersoft:
-Intern in designing website operating systems - Designing
-a job search website system for students (2 months)
+- <b>[2023 - 2025] HTX Nông Nghiệp Số:</b>
+  - Developed website with VueJS, NuxtJS and Bootstrap
+  - Developed, upgraded and maintained API with Golang (Gin Gonic) and deployed applications with Docker
+  - Participated in meaningfull and thorough code reviews
+  - Wrote automation scripts in Bash, Selenium and Jenkins
 
-- 2023 HTX Nông Nghiệp Số:
-Intern in developing website with VueJS, programming API with Golang - Gin (02/2023 - Now)
+- <b>[2024] University Graduation:</b>
+Researched on Federated Learning techniques and application development for machine learning model visualization
+  - Developed website with VueJS and TailwindCss
+  - Developed Federated Learning techniques and network system with Python and Flower framework
+  - Developed and maintained API with Python (FastAPI) and deployed applications with Docker
+
 
 ## Skills
 
 **Programing:** Javascript, Python, Golang
 
-**Front-end:** Vue, Nuxt, VueX, Bootstrap, TailwindCSS
+**Front-end:** Vue, React, TailwindCSS
 
-**Back-end:** Node, Express, Golang, Gin Gonic
-
-**Database:** NoSQL (MongoDB), SQL (MySQL)
+**Back-end:** Node, Express, Golang
 
 **Design:** Figma, Canva
 
